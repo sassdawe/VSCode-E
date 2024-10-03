@@ -1,0 +1,1 @@
+2DE4D39EEE34DB59CA0DA8E63C191EDE3C91AB195CD12673F4DB19806289E4EC;https://eastus8646.blob.core.windows.net/vscode-e/extensions.zip
